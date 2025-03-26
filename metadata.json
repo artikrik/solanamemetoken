@@ -1,10 +1,9 @@
 {
-  "name": "TSTMEME",
-  "symbol": "TSTMEME",
-  "image": "https://github.com/artikrik/solanamemetoken/blob/9802efec7de15aa9c38a8535e510dde594c8e623/testmeme.png",  
-  "seller_fee_basis_points": 500,
-  "creators": null
-  "attributes": [
+    "name": "TSTMEME",
+    "symbol": "TSTMEME",
+    "description": "TSTMEME",
+    "image": "https://raw.githubusercontent.com/artikrik/solanamemetoken/refs/heads/main/testmeme.png",
+    "attributes": [
       {
         "trait_type": "Item",
         "value": "Developer Portal"
