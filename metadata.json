@@ -1,7 +1,7 @@
 {
   "name": "TSTMEME",
   "symbol": "TSTMEME",
-  "uri": "https://github.com/artikrik/solanamemetoken/blob/9802efec7de15aa9c38a8535e510dde594c8e623/testmeme.png",  
+  "image": "https://github.com/artikrik/solanamemetoken/blob/9802efec7de15aa9c38a8535e510dde594c8e623/testmeme.png",  
   "seller_fee_basis_points": 500,
   "creators": null
   "attributes": [
